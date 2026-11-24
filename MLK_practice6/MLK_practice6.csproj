@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MatrixLibrary\MatrixLibrary.csproj" />
+    <ProjectReference Include="..\Mlk_Practice_5_Queue\CollectionLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
